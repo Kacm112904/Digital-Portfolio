@@ -4,7 +4,7 @@ Welcome! This is a collection of my work and experiences from class 99-040. Expl
 ---
 ## 📑 Table of Contents
 
-1. [📝Prelims](#-prelims)
-2. [🎨Midterms](#-midterms)
-3. [💻Finals](#-finals)
+1. [📝 Prelims](./Prelims) 
+2. [🎨 Midterms](./Midterms) 
+3. [💻 Finals](./Finals) 
 ---
