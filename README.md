@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### ![Badge](https://img.shields.io/badge/🐰PRELIMS-ff7a25?style=flat)
+### ![Badge](https://img.shields.io/badge/🐰PRELIMS-ff7a25?style=flat-width="300")
 
 <br/>
 
