@@ -25,11 +25,11 @@
 
 </div>
 
-## 🌷 My Showcase
+##🧡 My Showcase
 
 <div align="center">
 
-### ![](https://img.shields.io/badge/✨%20PERIOD-PRELIMINARIES-ffb6c1?style=for-the-badge)
+### <img src="https://img.shields.io/badge/PERIOD-PRELIMS-ff7a25style=flat&labelColor=4b342d" width="300">
 
 <br/>
 
