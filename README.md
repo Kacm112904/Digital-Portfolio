@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### [https://img.shields.io/badge/just%20the%20message-8A2BE2 width="150">]
+### ![Badge](https://img.shields.io/badge/🐰PRELIMS-ff7a25?style=flat)
 
 <br/>
 
