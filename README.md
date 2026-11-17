@@ -7,7 +7,7 @@
 <div align="center">
 
 ![STUDENT](https://img.shields.io/badge/STUDENT-Khrystel%20Adrianne%20C.%20Maningo-ff7a25?style=plastic&labelColor=4b342d )
-<img src="https://img.shields.io/badge/ATENEO_DE_DAVAO_UNIVERSITY-BSN_4D-ff7a25?style=plastic&labelColor=4b342d" width="450">
+<img src="https://img.shields.io/badge/ATENEO_DE_DAVAO_UNIVERSITY-BSN_4D-ff7a25?style=flat&labelColor=4b342d" width="450">
 
 
 </div>
