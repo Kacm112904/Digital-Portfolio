@@ -18,11 +18,11 @@
 
 ---
 
-## 🎀 🦋 About the Portfolio 🦋 🎀
+## 🐰 About the Portfolio 🐰
 
-> *✨ Welcome to my digital showcase! ✨*
+> *🥕 Welcome to my repository!🥕*
 > 
-> 🌸 This repository serves as a centralized hub highlighting my creative and technical growth in **GE 4120: 21st Century IT Skills**. It holds all my required course deliverables—including activity outputs, design documentations, mini projects, and assignments completed throughout the term. 🌷
+> 🧡 This is a collection of my work and experiences from class 99-040. Explore the projects, activities, and insights that reflect my learning and growth throughout the course.🐇
 
 ---
 
