@@ -7,7 +7,9 @@
 <div align="center">
 
 ![Student](https://img.shields.io/badge/STUDENT-Khrystel_Adrianne_Maningo-ff7a25?style=for-the-badge&labelColor=4b342d)
-![School & Program](https://img.shields.io/badge/SCHOOL-&-PROGRAM-Ateneo_de_Davao-BSN_4D-ff7a25?style=for-the-badge&labelColor=4b342d)
+
+![University & Program](https://img.shields.io/badge/ATENEO_DE_DAVAO_UNIVERSITY-BSN_4D-ff7a25?style=for-the-badge&labelColor=4b342d)
+
 
 </div>
 
