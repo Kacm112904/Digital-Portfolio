@@ -47,7 +47,7 @@
 
 <div align="center">
 
-### ![](https://img.shields.io/badge/✨%20PERIOD-MIDTERMS-ffc0cb?style=for-the-badge)
+<img src="https://img.shields.io/badge/🐰MIDTERMS-ff7a25?style=flat" width="150">
 
 <br/>
 
@@ -60,8 +60,7 @@
 
 <div align="center">
 
-### ![](https://img.shields.io/badge/✨%20PERIOD-PREFINALS-ffd1dc?style=for-the-badge)
+<img src="https://img.shields.io/badge/🐰FINALS-ff7a25?style=flat" width="150">
 
-> *🌷 Outputs and deliverables for the Prefinal period will be updated soon! 🦋*
 
 </div>
