@@ -26,11 +26,8 @@
 </div>
 
 ## 🧡 My Showcase
-
 <div align="center">
-
 ### <img src="https://img.shields.io/badge/🐰PRELIMS-ff7a25?style=flat" width="150">
-
 <br/>
 
 | [<img src="https://img.shields.io/badge/🌸_ACTIVITY_1-ffb6c1?style=for-the-badge&logoColor=white" width="100%">](./Activity-1) | [<img src="https://img.shields.io/badge/🎨_ACTIVITY_2-ffc0cb?style=for-the-badge&logoColor=white" width="100%">](./Activity-2) | [<img src="https://img.shields.io/badge/📱_ACTIVITY_3-ffd1dc?style=for-the-badge&logoColor=white" width="100%">](./Activity-3) |
