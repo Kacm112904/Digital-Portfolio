@@ -6,8 +6,8 @@
 
 <div align="center">
 
-![STUDENT](https://img.shields.io/badge/STUDENT-Khrystel%20Adrianne%20C.%20Maningo-ff7a25?style=plastic&labelColor=4b342d)
-![Ateneo de Davao University](https://img.shields.io/badge/Ateneo%20de%20Davao%20University-BSN%20D-ff7a25?style=plastic&labelColor=4b342d)
+![STUDENT](https://img.shields.io/badge/STUDENT-Khrystel%20Adrianne%20C.%20Maningo-ff7a25?style=plastic&labelColor=4b342d )
+<img src="https://img.shields.io/badge/ATENEO_DE_DAVAO_UNIVERSITY-BSN_4D-ff7a25?style=for-the-badge&labelColor=4b342d" width="450">
 
 
 </div>
