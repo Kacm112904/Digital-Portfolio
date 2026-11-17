@@ -3,8 +3,15 @@
 # ☀️ <font color="#FFB6C1">GE 4120: 21ST CENTURY IT SKILLS</font> ☀️
 
 <!-- Personal Metadata Banner -->
-![](https://img.shields.io/badge/STUDENT-Princess%20Hannah%20Bea%20Maramara-ffb6c1?style=for-the-badge&logo=heart)
-![](https://img.shields.io/badge/PROGRAM%2C%20YEAR%20%26%20SECTION-BS%20Nursing%20--%204D-ffd1dc?style=for-the-badge&logo=health)
+
+<div align="center">
+
+![Student](https://img.shields.io/badge/STUDENT-Khrystel_Adrianne_Maningo-ff7a25?style=for-the-badge&labelColor=4b342d)
+![Program](https://img.shields.io/badge/PROGRAM-BSN_4D-ff7a25?style=for-the-badge&labelColor=4b342d)
+![University](https://img.shields.io/badge/UNIVERSITY-Ateneo_de_Davao-ff7a25?style=for-the-badge&labelColor=4b342d)
+
+</div>
+
 
 </div>
 
