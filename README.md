@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/🐰PRELIMS-ff7a25?style=for-the-badge" width="300">
+### <img src="https://img.shields.io/badge/🐰PRELIMS-ff7a25?style=flat" width="250">
 
 <br/>
 
