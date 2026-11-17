@@ -14,9 +14,7 @@
 </div>
 
 ---
-
 ## 🐰 About the Portfolio 🐰
-
 <div align="center">
   
 > *Welcome to my repository!*
