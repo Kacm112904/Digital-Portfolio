@@ -1,10 +1,7 @@
-# Digital-Portfolio
-Welcome! This is a collection of my work and experiences from class 99-040. Explore the projects, activities, and insights that reflect my learning and growth throughout the course.
+<div align="center">
 
----
-## 📑 Table of Contents
+# 🐰 <font color="#4b342d">GE 4120: 21ST CENTURY IT SKILLS</font> 🐰
 
-1. [📝 Prelims](./Prelims) 
-2. [🎨 Midterms](./Midterms) 
-3. [💻 Finals](./Finals) 
----
+<!-- Personal Metadata Banner -->
+
+</div>
