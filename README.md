@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/PERIOD-PRELIMS-ff7a25?style=flat&labelColor=4b342d" width="250">
+### <img src="https://img.shields.io/badge/PERIOD-PRELIMS-ff7a25?style=flat&labelColor=4b342d" width="200">
 
 <br/>
 
