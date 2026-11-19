@@ -1,4 +1,6 @@
-Activity 4: Presentation Exam (Google Docs)
+<div align="center">
+<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬Google Docs Reportㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="850">
+</div>
 
 This group activity involved presenting the functions and features of Google Docs, including document editing, formatting, sharing, and real-time collaboration. It also included an interactive activity demonstrating its use.
 
