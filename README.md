@@ -57,9 +57,9 @@
 
 <div align="center">
 
-| :---: |  
+ 
 <!-- Midterm PPT Presentation Banner -->
-[<img src="https://img.shields.io/badge/💡View Group Presentation-f5f3ea?style=plastic&logoColor=4b342d" width="300">](./Activity%204/Activity%204%20-%20Google%20Docs%20Presentation%20PDF%20%28Group%205%29.pdf)
+| [<img src="https://img.shields.io/badge/💡View Group Presentation-f5f3ea?style=plastic&logoColor=4b342d" width="300">](./Activity%204/Activity%204%20-%20Google%20Docs%20Presentation%20PDF%20%28Group%205%29.pdf) |
 
 </div>
 
