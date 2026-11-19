@@ -1,4 +1,6 @@
-Activity 2: Personal Branding
+<div align="center">
+<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬Personal Brandingㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="850">
+</div>
 
 This activity involved creating a brand identity for Riry Animations, including its logo, tagline, icons, color palette, typography, and business card.
 
