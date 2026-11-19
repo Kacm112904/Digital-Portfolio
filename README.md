@@ -32,7 +32,7 @@
 
 <div align="center">
 
-| [<img src="https://img.shields.io/badge/🌸_ACTIVITY_1-ff7a25?style=flat-square&logoColor=white" height="45">](./Activity%201) | [<img src="https://img.shields.io/badge/🎨_ACTIVITY_2-ff7a25?style=flat-square&logoColor=white" height="45">](./Activity%202) | [<img src="https://img.shields.io/badge/📱_ACTIVITY_3-ff7a25?style=flat-square&logoColor=white" height="45">](./Activity%203) |
+| [<img src="https://img.shields.io/badge/ACTIVITY_1-ff7a25?style=flat-square&logoColor=white" width="100">](./Activity%201) | [<img src="https://img.shields.io/badge/ACTIVITY_2-ff7a25?style=flat-square&logoColor=white" width="100">](./Activity%202) | [<img src="https://img.shields.io/badge/ACTIVITY_3-ff7a25?style=flat-square&logoColor=white" width="100">](./Activity%203) |
 | :---: | :---: | :---: |
 | **Presentation Design Principles** | **Color Palette & Typography** | **Social Media Infographics & Project Documentation** |
 | <sub>Focuses on applying core visual design principles to improve layout structure and clarity. It emphasizes alignment, contrast, whitespace, and effective slide design for presentation outputs.</sub> | <sub>Explores color theory, accessibility ratios, and font pairing techniques. It highlights selecting harmonious palettes and typography systems for visual storytelling.</sub> | <sub>Features a one-page infographic simplifying a real-world issue alongside project documentation. It proposes a technology solution through clear visual and written communication.</sub> |
