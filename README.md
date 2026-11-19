@@ -30,12 +30,12 @@ Hi! I'm Khrystel, a fourth-year BS Nursing student at Ateneo de Davao University
 <p align="justify">
 Outside of academics, I love spending my free time gaming with friends, reading, and working on arts and crafts. I enjoy anything that allows me to express my creativity and have fun along the way. And if you couldn't already tell from the theme of this repository, I absolutely adore bunnies and the color orange! 🐰🧡 
 </p>
-
+<img src="./extra/Footer.png" width="570" alt="Footer">
 </table>
-
 </div>
 
 ---
+
 # 🐰 About the Portfolio 🐰
 <div align="center">
   
