@@ -11,7 +11,7 @@
     <td width="40%" align="center">
     ㅤ
       <br/>
-      <img src="./extra/profile.png" width="270" alt="My Profile Picture"> <br/>
+      <img src="./extra/profile.png" width="300" alt="My Profile Picture"> <br/>
       
 <small> 
   ㅤ
