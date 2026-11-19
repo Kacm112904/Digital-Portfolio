@@ -74,7 +74,7 @@
 | [<img src="https://img.shields.io/badge/🥕ACTIVITY_5-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%205) | [<img src="https://img.shields.io/badge/🥕ACTIVITY_6-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%206) | [<img src="https://img.shields.io/badge/🥕ACTIVITY_7-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%20) |
 | :---: | :---: | :---: |
 | **AI Tools** | **Website Creation** | **Resume Generation** |
-| <sub>Explores how effective prompt engineering improves AI-generated outputs. It highlights the importance of clear and specific instructions in achieving accurate and useful results.</sub> | <sub>Focuses on creating a one-page website using artificial intelligence. It demonstrates how a well-structured prompt can transform creative ideas, branding elements, and design preferences into a functional and visually appealing website.</sub> | <sub>explores the use of different artificial intelligence tools to generate and improve digital content.</sub> |
+| <sub>Explores how effective prompt engineering improves AI-generated outputs. It highlights the importance of clear and specific instructions in achieving accurate and useful results.</sub> | <sub>Demonstrates how a well-structured prompt can transform creative ideas, branding elements, and design preferences into a functional and visually appealing website.</sub> | <sub>Explores the use of different artificial intelligence tools to generate and improve digital content.</sub> |
 
 </div>
 
