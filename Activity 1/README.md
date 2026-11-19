@@ -1,4 +1,6 @@
-Activity 1: Principles of Design
+<div align="center">
+<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬Principles of Designㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="850">
+</div>
 
 This activity involved creating a promotional poster for a free coffee event using design principles. The output focused on attractive typography, colors, images, and proper arrangement of information.
 
