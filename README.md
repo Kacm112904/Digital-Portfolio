@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/🥬FINALS-ff7a25?style=plastic" width="150">
+<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬FINALSㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="850">
 
 <br/>
 
