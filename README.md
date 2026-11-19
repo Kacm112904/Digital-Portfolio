@@ -51,12 +51,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🐰MIDTERMS-ff7a25?style=flat" width="200">
+<img src="https://img.shields.io/badge/🐰MIDTERMS-ff7a25?style=plastic" width="200">
 
 <br/>
 
 <!-- Midterm PPT Presentation Banner -->
-[<img src="https://img.shields.io/badge/📊_VIEW_MIDTERM_PPT_PRESENTATION-ff69b4?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" height="38">](https://drive.google.com/file/d/1--zsKtTh2TIKun8-rtaL7rTZFQTOEcvZ/view?usp=drivesdk)
+[ [<img src="https://img.shields.io/badge/📄_ACTIVITY_4-ff7a25?style=flat-square&logoColor=white" height="45">](./Activity%204/Activity%204%20-%20Google%20Docs%20Presentation%20PDF%20%28Group%205%29.pdf)]
 
 </div>
 
