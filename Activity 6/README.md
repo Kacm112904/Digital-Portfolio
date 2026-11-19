@@ -1,4 +1,6 @@
-Activity 6: Making a Website
+<div align="center">
+<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬Website Creationㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="850">
+</div>
 
 This activity involved using AI to create a one-page website through effective prompt engineering. The goal was to develop a clear and detailed prompt describing the website’s purpose, design, layout, and overall appearance to achieve the desired output in a single attempt while minimizing the need for further revisions.
 
