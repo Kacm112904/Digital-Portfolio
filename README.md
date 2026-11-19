@@ -47,7 +47,7 @@ Outside of academics, I love spending my free time gaming with friends, reading,
 
 <div align="center">
   
-> *‼️Click on the titles to be redirected to the activity‼️*
+> *‼️Click on "activity" to be redirected to the activity‼️*
   <img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬PRELIMSㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="850">
   
 <br/>
