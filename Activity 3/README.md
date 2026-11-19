@@ -1,4 +1,6 @@
-Activity 3: Social Media Infographics & Project Documentation
+<div align="center">
+<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬Infographics & Project Documentationㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="1000">
+</div>
 
 This activity involved creating a one-page infographic that visually presents a real-world problem and a project documentation report that proposes a technology-based solution. It focused on developing skills in organizing and simplifying information, visual communication, problem-solving, and project documentation.
 
