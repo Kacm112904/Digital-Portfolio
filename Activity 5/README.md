@@ -1,4 +1,6 @@
-Activity 5: AI Tools Activity
+<div align="center">
+<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬AI Toolsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="850">
+</div>
 
 This activity involved comparing the results of an original and a revised AI prompt. The goal was to engineer a simple prompt and a detailed prompt  and observe how detailed instructions affect the output.
 
