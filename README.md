@@ -59,7 +59,7 @@
 
 
 <!-- Midterm PPT Presentation Banner -->
-| [<img src="https://img.shields.io/badge/🥕ACTIVITY 4-f5f3ea?style=plastic&logoColor=4b342d" width="300">](./Activity%204/Activity%204%20-%20Google%20Docs%20Presentation%20PDF%20%28Group%205%29.pdf) |
+| [<img src="https://img.shields.io/badge/🥕ACTIVITY 4-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%204/Activity%204%20-%20Google%20Docs%20Presentation%20PDF%20%28Group%205%29.pdf) |
 | :---: | 
 |**Productivity Tools Report**|
 | <sub> explores the use of digital tools for document creation, organization, and collaboration. It highlights how technology improves communication, teamwork, and productivity through efficient sharing, editing, and management of information.</sub> |
