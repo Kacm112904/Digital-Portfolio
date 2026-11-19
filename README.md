@@ -6,11 +6,36 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STUDENT-KHRYSTEL_ADRIANNE_C._MANINGO-ff7a25?style=plastic&labelColor=4b342d" width="550">
-<img src="https://img.shields.io/badge/UNIVERSITY-ATENEO_DE_DAVAO_UNIVERSITY-ff7a25?style=plastic&labelColor=4b342d" width="350">
-<img src="https://img.shields.io/badge/PROGRAM-BACHELOR_OF_SCIENCE_IN_NURSING_4D-ff7a25?style=plastic&labelColor=4b342d" width="350">
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="./extra/profile.png" width="300" alt="My Profile Picture">
+ <br/>
+      
+<small> 
+  
+**Khrystel Adrianne C. Maningo**  <br/>
+🎓AdDU | BSN-4D  <br/>
+📍Davao City, PH 
 
-</div>
+</small>
+    </td>
+    <td width="60%" valign="justified">
+
+
+
+## **🐰About Me**  
+<p align="justify">
+  
+Hi! I'm **Khrystel Adrianne Maningo**, a fourth-year BS Nursing student at Ateneo de Davao University. While I'm pursuing a career in healthcare, I also enjoy exploring my creative side through digital design, animation, and technology.
+<p align="justify">
+Outside of academics, I love spending my free time gaming with friends, reading, and working on arts and crafts. I enjoy anything that allows me to express my creativity and have fun along the way. And if you couldn't already tell from the theme of this repository, I absolutely adore bunnies and the color orange! 🐰🧡 
+ㅤ
+</p>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
