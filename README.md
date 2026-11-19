@@ -26,14 +26,11 @@
 
 ## **🐰About Me**  
 <p align="justify">
-  
-Hi! I'm **Khrystel Adrianne Maningo**, a fourth-year BS Nursing student at Ateneo de Davao University. While I'm pursuing a career in healthcare, I also enjoy exploring my creative side through digital design, animation, and technology.
+Hi! I'm Khrystel, a fourth-year BS Nursing student at Ateneo de Davao University. While I'm pursuing a career in healthcare, I also enjoy exploring my creative side through digital design, animation, and technology.
 <p align="justify">
 Outside of academics, I love spending my free time gaming with friends, reading, and working on arts and crafts. I enjoy anything that allows me to express my creativity and have fun along the way. And if you couldn't already tell from the theme of this repository, I absolutely adore bunnies and the color orange! 🐰🧡 
-ㅤ
 </p>
-</td>
-</tr>
+
 </table>
 
 </div>
@@ -42,9 +39,9 @@ Outside of academics, I love spending my free time gaming with friends, reading,
 # 🐰 About the Portfolio 🐰
 <div align="center">
   
-> *Welcome to my repository!✨*
-> 
-> This is a collection of my work and experiences from class 99-040. Explore the projects, activities, and insights that reflect my learning and growth throughout the course.
+ *Welcome to my repository!✨*
+ 
+ This is a collection of my work and experiences from class 99-040. Explore the projects, activities, and insights that reflect my learning and growth throughout the course.
 >
 > ‼️Click on the titles to be redirected to the activity‼️
 
