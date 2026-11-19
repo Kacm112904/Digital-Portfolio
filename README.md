@@ -27,13 +27,13 @@
 # 🧡 My Showcase
 
 <div align="center">
-<img src="https://img.shields.io/badge/🐰PRELIMS-ff7a25?style=plastic" width="150">
+<img src="https://img.shields.io/badge/🥬PRELIMS-ff7a25?style=plastic" width="150">
   
 <br/>
 
 <div align="center">
   
-| [<img src="https://img.shields.io/badge/🥬ACTIVITY_1-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%201) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_2-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%202) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_3-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%203) |
+| [<img src="https://img.shields.io/badge/🥕ACTIVITY_1-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%201) | [<img src="https://img.shields.io/badge/🥕ACTIVITY_2-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%202) | [<img src="https://img.shields.io/badge/🥕ACTIVITY_3-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%203) |
 | :---: | :---: | :---: |
 | **Design Principles** | **Branding Creation** | **Infographic  & Project Documentation** |
 | <sub>Focuses on applying core visual design principles to improve layout structure and clarity.</sub> | <sub>Explores the process on brand identity creation, including its logo, tagline, icons, color palette, typography, and business card..</sub> | <sub>Features a one-page infographic simplifying a real-world issue alongside project documentation.</sub> |
@@ -51,14 +51,14 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🐰MIDTERMS-ff7a25?style=plastic" width="200">
+<img src="https://img.shields.io/badge/🥬MIDTERMS-ff7a25?style=plastic" width="200">
 
 
 
 <br/>
 
 <!-- Midterm PPT Presentation Banner -->
-[<img src="https://img.shields.io/badge/View Group Presentation-ff7a25?style=plastic&logoColor=white" width="300">](./Activity%204/Activity%204%20-%20Google%20Docs%20Presentation%20PDF%20%28Group%205%29.pdf)
+[<img src="https://img.shields.io/badge/💡View Group Presentation-f5f3ea?style=plastic&logoColor=4b342d" width="300">](./Activity%204/Activity%204%20-%20Google%20Docs%20Presentation%20PDF%20%28Group%205%29.pdf)
 
 </div>
 
@@ -66,16 +66,16 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🐰FINALS-ff7a25?style=plastic" width="150">
+<img src="https://img.shields.io/badge/🥬FINALS-ff7a25?style=plastic" width="150">
 
 <br/>
 
 <div align="center">
   
-| [<img src="https://img.shields.io/badge/🥬ACTIVITY_5-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%205) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_6-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%206) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_7-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%20) |
+| [<img src="https://img.shields.io/badge/🥕ACTIVITY_5-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%205) | [<img src="https://img.shields.io/badge/🥕ACTIVITY_6-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%206) | [<img src="https://img.shields.io/badge/🥕ACTIVITY_7-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%20) |
 | :---: | :---: | :---: |
 | **AI Tools** | **Website Creation** | **Resume Generation** |
-| <sub>Focuses on applying core visual design principles to improve layout structure and clarity. It emphasizes alignment, contrast, whitespace, and effective slide design for presentation outputs.</sub> | <sub>Explores color theory, accessibility ratios, and font pairing techniques. It highlights selecting harmonious palettes and typography systems for visual storytelling.</sub> | <sub>Features a one-page infographic simplifying a real-world issue alongside project documentation. It proposes a technology solution through clear visual and written communication.</sub> |
+| <sub>Explores how effective prompt engineering improves AI-generated outputs. It highlights the importance of clear and specific instructions in achieving accurate and useful results.</sub> | <sub>Focuses on creating a one-page website using artificial intelligence. It demonstrates how a well-structured prompt can transform creative ideas, branding elements, and design preferences into a functional and visually appealing website.</sub> | <sub>explores the use of different artificial intelligence tools to generate and improve digital content.</sub> |
 
 </div>
 
