@@ -29,7 +29,7 @@
 # 🧡 My Showcase
 
 <div align="center">
-<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬PRELIMSㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="750">
+<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬PRELIMSㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="800">
   
 <br/>
 
