@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥬MIDTERMS-ff7a25?style=plastic" width="200">
+<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬MIDTERMSㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="850">
 
 <br/>
 
