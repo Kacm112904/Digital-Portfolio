@@ -30,7 +30,7 @@
   
 <br/>
 
-| [<img src="https://img.shields.io/badge/Activity 1-ff7a25?style=flat" width="100">][Activity-1](./src)
+| [<img src="https://img.shields.io/badge/Activity 1-ff7a25?style=flat" width="100">](/Activity_1)
  | [<img src="https://img.shields.io/badge/🎨_ACTIVITY_2-ffc0cb?style=for-the-badge&logoColor=white" width="100%">](./Activity-2) | [<img src="https://img.shields.io/badge/📱_ACTIVITY_3-ffd1dc?style=for-the-badge&logoColor=white" width="100%">](./Activity-3) |
 | :---: | :---: | :---: |
 | **Presentation Design Principles** | **Color Palette & Typography** | **Social Media Infographics & Project Documentation** |
