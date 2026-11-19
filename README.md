@@ -22,8 +22,6 @@
     </td>
     <td width="60%" valign="justified">
 
-
-
 ## **🐰About Me**  
 <p align="justify">
 Hi! I'm Khrystel, a fourth-year BS Nursing student at Ateneo de Davao University. While I'm pursuing a career in healthcare, I also enjoy exploring my creative side through digital design, animation, and technology.
