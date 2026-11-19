@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STUDENT-KHRYSTEL_ADRIANNE_C._MANINGO-ff7a25?style=plastic&labelColor=4b342d" width="450">
+<img src="https://img.shields.io/badge/STUDENT-KHRYSTEL_ADRIANNE_C._MANINGO-ff7a25?style=plastic&labelColor=4b342d" width="500">
 
-<img src="https://img.shields.io/badge/UNIVERSITY-ATENEO_DE_DAVAO_UNIVERSITY-ff7a25?style=plastic&labelColor=4b342d" width="300">
+<img src="https://img.shields.io/badge/UNIVERSITY-ATENEO_DE_DAVAO_UNIVERSITY-ff7a25?style=plastic&labelColor=4b342d" width="250">
 <img src="https://img.shields.io/badge/PROGRAM-BACHELOR_OF_SCIENCE_IN_NURSING_4D-ff7a25?style=plastic&labelColor=4b342d" width="300">
 
 </div>
