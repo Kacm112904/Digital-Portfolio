@@ -1,9 +1,6 @@
 <div align="center">
 
 # ☀️ <font color="#FFB6C1">GE 4120: 21ST CENTURY IT SKILLS</font> ☀️
-
-<!-- Personal Metadata Banner -->
-
 <div align="center">
 
 <table>
@@ -11,8 +8,7 @@
     <td width="40%" align="center">
     ㅤ
       <br/>
-      <img src="./extra/profile.png" width="300" alt="My Profile Picture"> <br/>
-      
+      <img src="./extra/profile.png" width="350" alt="My Profile Picture"> <br/> 
 <small> 
   ㅤ
   
