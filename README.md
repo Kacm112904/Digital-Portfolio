@@ -53,11 +53,12 @@
 
 <img src="https://img.shields.io/badge/🐰MIDTERMS-ff7a25?style=plastic" width="200">
 
+
+
 <br/>
 
-
 <!-- Midterm PPT Presentation Banner -->
-[<img src="https://img.shields.io/badge/View Group Presentation-ff7a25?style=plastic&logoColor=white" width="200">](./Activity%204/Activity%204%20-%20Google%20Docs%20Presentation%20PDF%20%28Group%205%29.pdf)
+[<img src="https://img.shields.io/badge/View Group Presentation-ff7a25?style=plastic&logoColor=white" width="300">](./Activity%204/Activity%204%20-%20Google%20Docs%20Presentation%20PDF%20%28Group%205%29.pdf)
 
 </div>
 
@@ -65,7 +66,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🐰FINALS-ff7a25?style=flat" width="150">
+<img src="https://img.shields.io/badge/🐰FINALS-ff7a25?style=plastic" width="150">
 
+<br/>
+
+<div align="center">
+  
+| [<img src="https://img.shields.io/badge/🥬ACTIVITY_5-ff7a25?style=plastic&logoColor=white" width="150">](./Activity%205) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_6-ff7a25?style=plastic&logoColor=white" width="150">](./Activity%206) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_7-ff7a25?style=plastic&logoColor=white" width="150">](./Activity%20)7 |
+| :---: | :---: | :---: |
+| **Presentation Design Principles** | **Color Palette & Typography** | **Social Media Infographics & Project Documentation** |
+| <sub>Focuses on applying core visual design principles to improve layout structure and clarity. It emphasizes alignment, contrast, whitespace, and effective slide design for presentation outputs.</sub> | <sub>Explores color theory, accessibility ratios, and font pairing techniques. It highlights selecting harmonious palettes and typography systems for visual storytelling.</sub> | <sub>Features a one-page infographic simplifying a real-world issue alongside project documentation. It proposes a technology solution through clear visual and written communication.</sub> |
 
 </div>
+
+<br/>
