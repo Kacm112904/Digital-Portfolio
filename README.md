@@ -33,7 +33,7 @@
 
 <div align="center">
   
-| [<img src="https://img.shields.io/badge/🥬ACTIVITY_1-4b342d?style=plastic&logoColor=white" width="150">](./Activity%201) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_2-4b342d?style=plastic&logoColor=white" width="150">](./Activity%202) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_3-4b342d?style=plastic&logoColor=white" width="150">](./Activity%203) |
+| [<img src="https://img.shields.io/badge/🥬ACTIVITY_1-f5f3ea?style=plastic&logoColor=4b342d" width="150">](./Activity%201) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_2-4b342d?style=plastic&logoColor=white" width="150">](./Activity%202) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_3-4b342d?style=plastic&logoColor=white" width="150">](./Activity%203) |
 | :---: | :---: | :---: |
 | **Design Principles** | **Branding Creation** | **Infographic  & Project Documentation** |
 | <sub>Focuses on applying core visual design principles to improve layout structure and clarity.</sub> | <sub>Explores the process on brand identity creation, including its logo, tagline, icons, color palette, typography, and business card..</sub> | <sub>Features a one-page infographic simplifying a real-world issue alongside project documentation.</sub> |
