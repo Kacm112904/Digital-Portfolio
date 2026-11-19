@@ -1,4 +1,6 @@
-Activity 7: Resume Generation
+<div align="center">
+<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬Resume Generationㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="850">
+</div>
 
 This activity involved using two Large Language Models to create professional resumes using the same prompt. The outputs were compared based on their structure, clarity, formatting, and overall quality.
 
