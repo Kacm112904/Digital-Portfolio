@@ -9,8 +9,9 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="./extra/profile.png" width="230" alt="My Profile Picture">
- <br/>
+    ㅤ
+      <br/>
+      <img src="./extra/profile.png" width="270" alt="My Profile Picture"> <br/>
       
 <small> 
   ㅤ
@@ -23,8 +24,7 @@
     </td>
     <td width="60%" valign="justified">
 
-<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬About Meㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="1050">
-<br/>
+<img src="https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤㅤ🥬About Meㅤㅤㅤㅤㅤㅤㅤㅤ-ff7a25?style=plastic" width="1050"> <br/>
 <p align="justify">
 Hi! I'm Khrystel, a fourth-year BS Nursing student at Ateneo de Davao University. While I'm pursuing a career in healthcare, I also enjoy exploring my creative side through digital design, animation, and technology.
 <p align="justify">
