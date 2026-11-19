@@ -33,7 +33,7 @@
 
 <div align="center">
 
-| [<img src="https://img.shields.io/badge/🥬ACTIVITY_1-ff7a25?style=flat&logoColor=white" width="100">](./Activity%201) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_2-ff7a25?style=flat&logoColor=white" width="100">](./Activity%202) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_3-ff7a25?style=flat&logoColor=white" width="100">](./Activity%203) |
+| [<img src="https://img.shields.io/badge/🥬ACTIVITY_1-ff7a25?style=flat&logoColor=white" width="200">](./Activity%201) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_2-ff7a25?style=flat&logoColor=white" width="200">](./Activity%202) | [<img src="https://img.shields.io/badge/🥬ACTIVITY_3-ff7a25?style=flat&logoColor=white" width="200">](./Activity%203) |
 | :---: | :---: | :---: |
 | **Presentation Design Principles** | **Color Palette & Typography** | **Social Media Infographics & Project Documentation** |
 | <sub>Focuses on applying core visual design principles to improve layout structure and clarity. It emphasizes alignment, contrast, whitespace, and effective slide design for presentation outputs.</sub> | <sub>Explores color theory, accessibility ratios, and font pairing techniques. It highlights selecting harmonious palettes and typography systems for visual storytelling.</sub> | <sub>Features a one-page infographic simplifying a real-world issue alongside project documentation. It proposes a technology solution through clear visual and written communication.</sub> |
@@ -43,7 +43,7 @@
 <br/>
 
 <!-- Prelim Video Presentation Banner -->
-[<img src="https://img.shields.io/badge/🎬_WATCH_PRELIM_VIDEO_PRESENTATION-ff7a25?style=plastic&logo=youtube&logoColor=white" width="250">](https://drive.google.com/file/d/1cgFz1d8MGakY41jCrMZPMR1UYQC8HQlg/view?usp=drive_link](https://drive.google.com/file/d/1ydsGYAfyRVf71h2RNGeFoSoRAD9qzCGW/view?usp=drive_link))
+[<img src="https://img.shields.io/badge/WATCH_PRELIM_VIDEO_PRESENTATION-ff7a25?style=plastic&logo=youtube&logoColor=white" width="400">](https://drive.google.com/file/d/1ydsGYAfyRVf71h2RNGeFoSoRAD9qzCGW/view?usp=drive_link)
 
 </div>
 
